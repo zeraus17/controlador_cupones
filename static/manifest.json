@@ -1,0 +1,10 @@
+{
+  "name": "Controlador de Cupones",
+  "short_name": "Cupones",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "description": "App para controlar cupones de supermercado",
+  "icons": []
+}
